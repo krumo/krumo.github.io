@@ -47,7 +47,7 @@ Skills
 ======
 * Programming Languages: Python, MATLAB, C/C++, Java, JavaScript
 * Toolboxes: PyTorch, Caffe2, TensorFlow
-* Languages: English (professional), Mandarin Chinese (native)
+* Languages: English(professional), Chinese(native)
 
 Publications
 ======
