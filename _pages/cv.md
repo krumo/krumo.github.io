@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in [ETH Zürich](https://ethz.ch/en.html), Switzerland, 2020 (expected)
+* M.S. in [ETH Zürich](https://ethz.ch/en.html), Switzerland, 2020
 * B.S. in [Sichuan University](http://www.scu.edu.cn/), China, 2017
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
